@@ -1,0 +1,1301 @@
+{
+  "disclaimer": "Fictional demo catalog. Not affiliated with GetYourGuide. Activities, prices, availability, and reviews were written for this sample and were not scraped.",
+  "activities": [
+    {
+      "id": "lis-belem-tower",
+      "city": "Lisbon",
+      "title": "Bel\u00e9m Tower Skip-the-Line",
+      "category": "sightseeing",
+      "summary": "Timed entry to Bel\u00e9m Tower with a guide who keeps the group moving.",
+      "pricePerPerson": 22,
+      "currency": "EUR",
+      "durationMinutes": 75,
+      "kidFriendly": true,
+      "skipTheLine": true,
+      "rainFriendly": false,
+      "minParticipants": 1,
+      "maxParticipants": 15,
+      "tags": [
+        "history",
+        "family"
+      ],
+      "crossSellIds": [
+        "lis-pastel-workshop",
+        "lis-tram-28"
+      ],
+      "defaultCapacity": 20,
+      "closedDates": [],
+      "dateCapacity": {
+        "2026-06-13": 0
+      },
+      "reviews": [
+        {
+          "rating": 5,
+          "author": "Marta",
+          "text": "Bel\u00e9m Tower Skip-the-Line: Skip-the-line was worth it and we walked straight in. The children stayed engaged the whole time."
+        },
+        {
+          "rating": 4,
+          "author": "Jonas",
+          "text": "A rain shower would have wrecked this one; it is fully outdoors. I would book Bel\u00e9m Tower Skip-the-Line again."
+        }
+      ]
+    },
+    {
+      "id": "lis-tram-28",
+      "city": "Lisbon",
+      "title": "Tram 28 Hills Ride",
+      "category": "sightseeing",
+      "summary": "A seated ride through Alfama and Gra\u00e7a with stops you can actually use.",
+      "pricePerPerson": 27,
+      "currency": "EUR",
+      "durationMinutes": 90,
+      "kidFriendly": true,
+      "skipTheLine": false,
+      "rainFriendly": false,
+      "minParticipants": 1,
+      "maxParticipants": 12,
+      "tags": [
+        "family",
+        "transit"
+      ],
+      "crossSellIds": [
+        "lis-belem-tower",
+        "lis-miradouro"
+      ],
+      "defaultCapacity": 20,
+      "closedDates": [],
+      "dateCapacity": {},
+      "reviews": [
+        {
+          "rating": 5,
+          "author": "Marta",
+          "text": "Tram 28 Hills Ride: There is no skip-the-line, so we waited with everyone else. The children stayed engaged the whole time."
+        },
+        {
+          "rating": 4,
+          "author": "Jonas",
+          "text": "A rain shower would have wrecked this one; it is fully outdoors. I would book Tram 28 Hills Ride again."
+        }
+      ]
+    },
+    {
+      "id": "lis-oceanario",
+      "city": "Lisbon",
+      "title": "Ocean\u00e1rio Family Ticket",
+      "category": "family",
+      "summary": "The big aquarium, with a hosted trail that works for school-age children.",
+      "pricePerPerson": 28,
+      "currency": "EUR",
+      "durationMinutes": 120,
+      "kidFriendly": true,
+      "skipTheLine": true,
+      "rainFriendly": true,
+      "minParticipants": 1,
+      "maxParticipants": 10,
+      "tags": [
+        "family",
+        "indoor"
+      ],
+      "crossSellIds": [
+        "lis-pastel-workshop",
+        "lis-tile-museum"
+      ],
+      "defaultCapacity": 20,
+      "closedDates": [],
+      "dateCapacity": {},
+      "reviews": [
+        {
+          "rating": 5,
+          "author": "Marta",
+          "text": "Ocean\u00e1rio Family Ticket: Skip-the-line was worth it and we walked straight in. The children stayed engaged the whole time."
+        },
+        {
+          "rating": 4,
+          "author": "Jonas",
+          "text": "It poured and the activity still ran because we were under cover. I would book Ocean\u00e1rio Family Ticket again."
+        }
+      ]
+    },
+    {
+      "id": "lis-pastel-workshop",
+      "city": "Lisbon",
+      "title": "Pastel de Nata Workshop",
+      "category": "food",
+      "summary": "Hands-on pastry class in Bel\u00e9m, indoors, with the tarts you bake.",
+      "pricePerPerson": 45,
+      "currency": "EUR",
+      "durationMinutes": 90,
+      "kidFriendly": true,
+      "skipTheLine": false,
+      "rainFriendly": true,
+      "minParticipants": 1,
+      "maxParticipants": 8,
+      "tags": [
+        "food",
+        "family"
+      ],
+      "crossSellIds": [
+        "lis-belem-tower",
+        "lis-tram-28"
+      ],
+      "defaultCapacity": 20,
+      "closedDates": [],
+      "dateCapacity": {},
+      "reviews": [
+        {
+          "rating": 5,
+          "author": "Marta",
+          "text": "Pastel de Nata Workshop: There is no skip-the-line, so we waited with everyone else. The children stayed engaged the whole time."
+        },
+        {
+          "rating": 4,
+          "author": "Jonas",
+          "text": "It poured and the activity still ran because we were under cover. I would book Pastel de Nata Workshop again."
+        }
+      ]
+    },
+    {
+      "id": "lis-fado-night",
+      "city": "Lisbon",
+      "title": "Alfama Fado Evening",
+      "category": "nightlife",
+      "summary": "A short fado set in a small room with a glass of wine included.",
+      "pricePerPerson": 38,
+      "currency": "EUR",
+      "durationMinutes": 100,
+      "kidFriendly": false,
+      "skipTheLine": false,
+      "rainFriendly": true,
+      "minParticipants": 1,
+      "maxParticipants": 8,
+      "tags": [
+        "music",
+        "night"
+      ],
+      "crossSellIds": [
+        "lis-tram-28",
+        "lis-tile-museum"
+      ],
+      "defaultCapacity": 20,
+      "closedDates": [],
+      "dateCapacity": {},
+      "reviews": [
+        {
+          "rating": 4,
+          "author": "Marta",
+          "text": "Alfama Fado Evening: There is no skip-the-line, so we waited with everyone else. This felt aimed at adults, not young children."
+        },
+        {
+          "rating": 4,
+          "author": "Jonas",
+          "text": "It poured and the activity still ran because we were under cover. I would book Alfama Fado Evening again."
+        }
+      ]
+    },
+    {
+      "id": "lis-sintra-palace",
+      "city": "Lisbon",
+      "title": "Sintra Pena Palace Timed Entry",
+      "category": "sightseeing",
+      "summary": "Half-day palace entry with a timed gate and the park walk.",
+      "pricePerPerson": 49,
+      "currency": "EUR",
+      "durationMinutes": 240,
+      "kidFriendly": true,
+      "skipTheLine": true,
+      "rainFriendly": false,
+      "minParticipants": 1,
+      "maxParticipants": 12,
+      "tags": [
+        "history",
+        "family"
+      ],
+      "crossSellIds": [
+        "lis-belem-tower",
+        "lis-kayak"
+      ],
+      "defaultCapacity": 20,
+      "closedDates": [],
+      "dateCapacity": {},
+      "reviews": [
+        {
+          "rating": 5,
+          "author": "Marta",
+          "text": "Sintra Pena Palace Timed Entry: Skip-the-line was worth it and we walked straight in. The children stayed engaged the whole time."
+        },
+        {
+          "rating": 4,
+          "author": "Jonas",
+          "text": "A rain shower would have wrecked this one; it is fully outdoors. I would book Sintra Pena Palace Timed Entry again."
+        }
+      ]
+    },
+    {
+      "id": "lis-kayak",
+      "city": "Lisbon",
+      "title": "Tagus Kayak at Bel\u00e9m",
+      "category": "outdoor",
+      "summary": "A calm-water paddle past the tower, for ages eight and up.",
+      "pricePerPerson": 36,
+      "currency": "EUR",
+      "durationMinutes": 120,
+      "kidFriendly": true,
+      "skipTheLine": false,
+      "rainFriendly": false,
+      "minParticipants": 1,
+      "maxParticipants": 6,
+      "tags": [
+        "outdoor",
+        "family"
+      ],
+      "crossSellIds": [
+        "lis-belem-tower",
+        "lis-oceanario"
+      ],
+      "defaultCapacity": 20,
+      "closedDates": [],
+      "dateCapacity": {},
+      "reviews": [
+        {
+          "rating": 5,
+          "author": "Marta",
+          "text": "Tagus Kayak at Bel\u00e9m: There is no skip-the-line, so we waited with everyone else. The children stayed engaged the whole time."
+        },
+        {
+          "rating": 4,
+          "author": "Jonas",
+          "text": "A rain shower would have wrecked this one; it is fully outdoors. I would book Tagus Kayak at Bel\u00e9m again."
+        }
+      ]
+    },
+    {
+      "id": "lis-tile-museum",
+      "city": "Lisbon",
+      "title": "National Tile Museum",
+      "category": "museum",
+      "summary": "Azulejo collections in a convent, quiet and fully indoors.",
+      "pricePerPerson": 14,
+      "currency": "EUR",
+      "durationMinutes": 80,
+      "kidFriendly": true,
+      "skipTheLine": false,
+      "rainFriendly": true,
+      "minParticipants": 1,
+      "maxParticipants": 20,
+      "tags": [
+        "museum",
+        "family"
+      ],
+      "crossSellIds": [
+        "lis-oceanario",
+        "lis-pastel-workshop"
+      ],
+      "defaultCapacity": 20,
+      "closedDates": [],
+      "dateCapacity": {},
+      "reviews": [
+        {
+          "rating": 5,
+          "author": "Marta",
+          "text": "National Tile Museum: There is no skip-the-line, so we waited with everyone else. The children stayed engaged the whole time."
+        },
+        {
+          "rating": 4,
+          "author": "Jonas",
+          "text": "It poured and the activity still ran because we were under cover. I would book National Tile Museum again."
+        }
+      ]
+    },
+    {
+      "id": "lis-miradouro",
+      "city": "Lisbon",
+      "title": "Sunset Viewpoint Walk",
+      "category": "outdoor",
+      "summary": "A guided walk between two miradouros with a short tram hop.",
+      "pricePerPerson": 19,
+      "currency": "EUR",
+      "durationMinutes": 100,
+      "kidFriendly": true,
+      "skipTheLine": false,
+      "rainFriendly": false,
+      "minParticipants": 1,
+      "maxParticipants": 12,
+      "tags": [
+        "outdoor",
+        "family"
+      ],
+      "crossSellIds": [
+        "lis-tram-28",
+        "lis-fado-night"
+      ],
+      "defaultCapacity": 20,
+      "closedDates": [],
+      "dateCapacity": {},
+      "reviews": [
+        {
+          "rating": 5,
+          "author": "Marta",
+          "text": "Sunset Viewpoint Walk: There is no skip-the-line, so we waited with everyone else. The children stayed engaged the whole time."
+        },
+        {
+          "rating": 4,
+          "author": "Jonas",
+          "text": "A rain shower would have wrecked this one; it is fully outdoors. I would book Sunset Viewpoint Walk again."
+        }
+      ]
+    },
+    {
+      "id": "bcn-sagrada-skip",
+      "city": "Barcelona",
+      "title": "Sagrada Fam\u00edlia Skip-the-Line",
+      "category": "sightseeing",
+      "summary": "Basilica entry with a timed slot and a host for the nave.",
+      "pricePerPerson": 36,
+      "currency": "EUR",
+      "durationMinutes": 90,
+      "kidFriendly": true,
+      "skipTheLine": true,
+      "rainFriendly": true,
+      "minParticipants": 1,
+      "maxParticipants": 12,
+      "tags": [
+        "history",
+        "family"
+      ],
+      "crossSellIds": [
+        "bcn-park-guell",
+        "bcn-gothic-food"
+      ],
+      "defaultCapacity": 20,
+      "closedDates": [],
+      "dateCapacity": {},
+      "reviews": [
+        {
+          "rating": 5,
+          "author": "Marta",
+          "text": "Sagrada Fam\u00edlia Skip-the-Line: Skip-the-line was worth it and we walked straight in. The children stayed engaged the whole time."
+        },
+        {
+          "rating": 4,
+          "author": "Jonas",
+          "text": "It poured and the activity still ran because we were under cover. I would book Sagrada Fam\u00edlia Skip-the-Line again."
+        }
+      ]
+    },
+    {
+      "id": "bcn-park-guell",
+      "city": "Barcelona",
+      "title": "Park G\u00fcell Monumental Zone",
+      "category": "outdoor",
+      "summary": "Early entry to the monumental zone before the midday crush.",
+      "pricePerPerson": 18,
+      "currency": "EUR",
+      "durationMinutes": 80,
+      "kidFriendly": true,
+      "skipTheLine": true,
+      "rainFriendly": false,
+      "minParticipants": 1,
+      "maxParticipants": 15,
+      "tags": [
+        "outdoor",
+        "family"
+      ],
+      "crossSellIds": [
+        "bcn-sagrada-skip",
+        "bcn-montjuic"
+      ],
+      "defaultCapacity": 20,
+      "closedDates": [],
+      "dateCapacity": {
+        "2026-08-15": 2
+      },
+      "reviews": [
+        {
+          "rating": 5,
+          "author": "Marta",
+          "text": "Park G\u00fcell Monumental Zone: Skip-the-line was worth it and we walked straight in. The children stayed engaged the whole time."
+        },
+        {
+          "rating": 4,
+          "author": "Jonas",
+          "text": "A rain shower would have wrecked this one; it is fully outdoors. I would book Park G\u00fcell Monumental Zone again."
+        }
+      ]
+    },
+    {
+      "id": "bcn-gothic-food",
+      "city": "Barcelona",
+      "title": "Gothic Quarter Tapas Walk",
+      "category": "food",
+      "summary": "Four small plates in covered bars around the Gothic Quarter.",
+      "pricePerPerson": 55,
+      "currency": "EUR",
+      "durationMinutes": 150,
+      "kidFriendly": true,
+      "skipTheLine": false,
+      "rainFriendly": true,
+      "minParticipants": 1,
+      "maxParticipants": 8,
+      "tags": [
+        "food",
+        "family"
+      ],
+      "crossSellIds": [
+        "bcn-sagrada-skip",
+        "bcn-flamenco"
+      ],
+      "defaultCapacity": 20,
+      "closedDates": [],
+      "dateCapacity": {},
+      "reviews": [
+        {
+          "rating": 5,
+          "author": "Marta",
+          "text": "Gothic Quarter Tapas Walk: There is no skip-the-line, so we waited with everyone else. The children stayed engaged the whole time."
+        },
+        {
+          "rating": 4,
+          "author": "Jonas",
+          "text": "It poured and the activity still ran because we were under cover. I would book Gothic Quarter Tapas Walk again."
+        }
+      ]
+    },
+    {
+      "id": "bcn-harbor-cruise",
+      "city": "Barcelona",
+      "title": "Barcelona Harbor Cruise",
+      "category": "cruise",
+      "summary": "A one-hour boat past the port and Barceloneta.",
+      "pricePerPerson": 29,
+      "currency": "EUR",
+      "durationMinutes": 75,
+      "kidFriendly": true,
+      "skipTheLine": false,
+      "rainFriendly": false,
+      "minParticipants": 1,
+      "maxParticipants": 20,
+      "tags": [
+        "cruise",
+        "family"
+      ],
+      "crossSellIds": [
+        "bcn-montjuic",
+        "bcn-picasso"
+      ],
+      "defaultCapacity": 20,
+      "closedDates": [],
+      "dateCapacity": {},
+      "reviews": [
+        {
+          "rating": 5,
+          "author": "Marta",
+          "text": "Barcelona Harbor Cruise: There is no skip-the-line, so we waited with everyone else. The children stayed engaged the whole time."
+        },
+        {
+          "rating": 4,
+          "author": "Jonas",
+          "text": "A rain shower would have wrecked this one; it is fully outdoors. I would book Barcelona Harbor Cruise again."
+        }
+      ]
+    },
+    {
+      "id": "bcn-picasso",
+      "city": "Barcelona",
+      "title": "Picasso Museum Timed Ticket",
+      "category": "museum",
+      "summary": "Timed entry to the museum with a short orientation.",
+      "pricePerPerson": 16,
+      "currency": "EUR",
+      "durationMinutes": 70,
+      "kidFriendly": true,
+      "skipTheLine": true,
+      "rainFriendly": true,
+      "minParticipants": 1,
+      "maxParticipants": 12,
+      "tags": [
+        "museum",
+        "family"
+      ],
+      "crossSellIds": [
+        "bcn-gothic-food",
+        "bcn-sagrada-skip"
+      ],
+      "defaultCapacity": 20,
+      "closedDates": [],
+      "dateCapacity": {},
+      "reviews": [
+        {
+          "rating": 5,
+          "author": "Marta",
+          "text": "Picasso Museum Timed Ticket: Skip-the-line was worth it and we walked straight in. The children stayed engaged the whole time."
+        },
+        {
+          "rating": 4,
+          "author": "Jonas",
+          "text": "It poured and the activity still ran because we were under cover. I would book Picasso Museum Timed Ticket again."
+        }
+      ]
+    },
+    {
+      "id": "bcn-camp-nou",
+      "city": "Barcelona",
+      "title": "Camp Nou Stadium Tour",
+      "category": "family",
+      "summary": "A self-paced stadium tour that stays mostly under the stands.",
+      "pricePerPerson": 32,
+      "currency": "EUR",
+      "durationMinutes": 90,
+      "kidFriendly": true,
+      "skipTheLine": false,
+      "rainFriendly": true,
+      "minParticipants": 1,
+      "maxParticipants": 15,
+      "tags": [
+        "family",
+        "sport"
+      ],
+      "crossSellIds": [
+        "bcn-harbor-cruise",
+        "bcn-picasso"
+      ],
+      "defaultCapacity": 20,
+      "closedDates": [],
+      "dateCapacity": {},
+      "reviews": [
+        {
+          "rating": 5,
+          "author": "Marta",
+          "text": "Camp Nou Stadium Tour: There is no skip-the-line, so we waited with everyone else. The children stayed engaged the whole time."
+        },
+        {
+          "rating": 4,
+          "author": "Jonas",
+          "text": "It poured and the activity still ran because we were under cover. I would book Camp Nou Stadium Tour again."
+        }
+      ]
+    },
+    {
+      "id": "bcn-flamenco",
+      "city": "Barcelona",
+      "title": "Flamenco Night in El Born",
+      "category": "nightlife",
+      "summary": "A tablao show with a drink, starting after 20:00.",
+      "pricePerPerson": 42,
+      "currency": "EUR",
+      "durationMinutes": 80,
+      "kidFriendly": false,
+      "skipTheLine": false,
+      "rainFriendly": true,
+      "minParticipants": 1,
+      "maxParticipants": 10,
+      "tags": [
+        "night",
+        "music"
+      ],
+      "crossSellIds": [
+        "bcn-gothic-food",
+        "bcn-sagrada-skip"
+      ],
+      "defaultCapacity": 20,
+      "closedDates": [],
+      "dateCapacity": {},
+      "reviews": [
+        {
+          "rating": 4,
+          "author": "Marta",
+          "text": "Flamenco Night in El Born: There is no skip-the-line, so we waited with everyone else. This felt aimed at adults, not young children."
+        },
+        {
+          "rating": 4,
+          "author": "Jonas",
+          "text": "It poured and the activity still ran because we were under cover. I would book Flamenco Night in El Born again."
+        }
+      ]
+    },
+    {
+      "id": "bcn-montjuic",
+      "city": "Barcelona",
+      "title": "Montju\u00efc Cable Car and Castle",
+      "category": "outdoor",
+      "summary": "Cable car up to the castle with time on the ramparts.",
+      "pricePerPerson": 21,
+      "currency": "EUR",
+      "durationMinutes": 100,
+      "kidFriendly": true,
+      "skipTheLine": false,
+      "rainFriendly": false,
+      "minParticipants": 1,
+      "maxParticipants": 12,
+      "tags": [
+        "outdoor",
+        "family"
+      ],
+      "crossSellIds": [
+        "bcn-harbor-cruise",
+        "bcn-park-guell"
+      ],
+      "defaultCapacity": 20,
+      "closedDates": [],
+      "dateCapacity": {},
+      "reviews": [
+        {
+          "rating": 5,
+          "author": "Marta",
+          "text": "Montju\u00efc Cable Car and Castle: There is no skip-the-line, so we waited with everyone else. The children stayed engaged the whole time."
+        },
+        {
+          "rating": 4,
+          "author": "Jonas",
+          "text": "A rain shower would have wrecked this one; it is fully outdoors. I would book Montju\u00efc Cable Car and Castle again."
+        }
+      ]
+    },
+    {
+      "id": "ber-museum-island",
+      "city": "Berlin",
+      "title": "Museum Island Day Pass",
+      "category": "museum",
+      "summary": "One ticket for the island museums, with a suggested two-hour route.",
+      "pricePerPerson": 24,
+      "currency": "EUR",
+      "durationMinutes": 180,
+      "kidFriendly": true,
+      "skipTheLine": true,
+      "rainFriendly": true,
+      "minParticipants": 1,
+      "maxParticipants": 15,
+      "tags": [
+        "museum",
+        "family"
+      ],
+      "crossSellIds": [
+        "ber-ddr",
+        "ber-spree-cruise"
+      ],
+      "defaultCapacity": 20,
+      "closedDates": [],
+      "dateCapacity": {},
+      "reviews": [
+        {
+          "rating": 5,
+          "author": "Marta",
+          "text": "Museum Island Day Pass: Skip-the-line was worth it and we walked straight in. The children stayed engaged the whole time."
+        },
+        {
+          "rating": 4,
+          "author": "Jonas",
+          "text": "It poured and the activity still ran because we were under cover. I would book Museum Island Day Pass again."
+        }
+      ]
+    },
+    {
+      "id": "ber-wall-bike",
+      "city": "Berlin",
+      "title": "Berlin Wall Bike Tour",
+      "category": "outdoor",
+      "summary": "A bike loop along the wall trail with a lock for each rider.",
+      "pricePerPerson": 34,
+      "currency": "EUR",
+      "durationMinutes": 180,
+      "kidFriendly": true,
+      "skipTheLine": false,
+      "rainFriendly": false,
+      "minParticipants": 1,
+      "maxParticipants": 10,
+      "tags": [
+        "outdoor",
+        "history"
+      ],
+      "crossSellIds": [
+        "ber-museum-island",
+        "ber-east-side"
+      ],
+      "defaultCapacity": 20,
+      "closedDates": [],
+      "dateCapacity": {},
+      "reviews": [
+        {
+          "rating": 5,
+          "author": "Marta",
+          "text": "Berlin Wall Bike Tour: There is no skip-the-line, so we waited with everyone else. The children stayed engaged the whole time."
+        },
+        {
+          "rating": 4,
+          "author": "Jonas",
+          "text": "A rain shower would have wrecked this one; it is fully outdoors. I would book Berlin Wall Bike Tour again."
+        }
+      ]
+    },
+    {
+      "id": "ber-reichstag",
+      "city": "Berlin",
+      "title": "Reichstag Dome Timed Entry",
+      "category": "sightseeing",
+      "summary": "A timed dome slot and the audio guide on the ramp.",
+      "pricePerPerson": 19,
+      "currency": "EUR",
+      "durationMinutes": 70,
+      "kidFriendly": true,
+      "skipTheLine": true,
+      "rainFriendly": false,
+      "minParticipants": 1,
+      "maxParticipants": 12,
+      "tags": [
+        "history",
+        "family"
+      ],
+      "crossSellIds": [
+        "ber-museum-island",
+        "ber-spree-cruise"
+      ],
+      "defaultCapacity": 20,
+      "closedDates": [],
+      "dateCapacity": {},
+      "reviews": [
+        {
+          "rating": 5,
+          "author": "Marta",
+          "text": "Reichstag Dome Timed Entry: Skip-the-line was worth it and we walked straight in. The children stayed engaged the whole time."
+        },
+        {
+          "rating": 4,
+          "author": "Jonas",
+          "text": "A rain shower would have wrecked this one; it is fully outdoors. I would book Reichstag Dome Timed Entry again."
+        }
+      ]
+    },
+    {
+      "id": "ber-market-food",
+      "city": "Berlin",
+      "title": "Markthalle Neun Street Food",
+      "category": "food",
+      "summary": "A hosted tasting inside the market hall.",
+      "pricePerPerson": 29,
+      "currency": "EUR",
+      "durationMinutes": 90,
+      "kidFriendly": true,
+      "skipTheLine": false,
+      "rainFriendly": true,
+      "minParticipants": 1,
+      "maxParticipants": 8,
+      "tags": [
+        "food",
+        "family"
+      ],
+      "crossSellIds": [
+        "ber-ddr",
+        "ber-museum-island"
+      ],
+      "defaultCapacity": 20,
+      "closedDates": [],
+      "dateCapacity": {},
+      "reviews": [
+        {
+          "rating": 5,
+          "author": "Marta",
+          "text": "Markthalle Neun Street Food: There is no skip-the-line, so we waited with everyone else. The children stayed engaged the whole time."
+        },
+        {
+          "rating": 4,
+          "author": "Jonas",
+          "text": "It poured and the activity still ran because we were under cover. I would book Markthalle Neun Street Food again."
+        }
+      ]
+    },
+    {
+      "id": "ber-spree-cruise",
+      "city": "Berlin",
+      "title": "Spree River Cruise",
+      "category": "cruise",
+      "summary": "An hour on the river under the museum island bridges.",
+      "pricePerPerson": 22,
+      "currency": "EUR",
+      "durationMinutes": 60,
+      "kidFriendly": true,
+      "skipTheLine": false,
+      "rainFriendly": false,
+      "minParticipants": 1,
+      "maxParticipants": 20,
+      "tags": [
+        "cruise",
+        "family"
+      ],
+      "crossSellIds": [
+        "ber-museum-island",
+        "ber-reichstag"
+      ],
+      "defaultCapacity": 20,
+      "closedDates": [],
+      "dateCapacity": {},
+      "reviews": [
+        {
+          "rating": 5,
+          "author": "Marta",
+          "text": "Spree River Cruise: There is no skip-the-line, so we waited with everyone else. The children stayed engaged the whole time."
+        },
+        {
+          "rating": 4,
+          "author": "Jonas",
+          "text": "A rain shower would have wrecked this one; it is fully outdoors. I would book Spree River Cruise again."
+        }
+      ]
+    },
+    {
+      "id": "ber-ddr",
+      "city": "Berlin",
+      "title": "DDR Museum Hands-on Ticket",
+      "category": "museum",
+      "summary": "A small museum you can touch, fully indoors.",
+      "pricePerPerson": 17,
+      "currency": "EUR",
+      "durationMinutes": 80,
+      "kidFriendly": true,
+      "skipTheLine": false,
+      "rainFriendly": true,
+      "minParticipants": 1,
+      "maxParticipants": 12,
+      "tags": [
+        "museum",
+        "family"
+      ],
+      "crossSellIds": [
+        "ber-museum-island",
+        "ber-market-food"
+      ],
+      "defaultCapacity": 20,
+      "closedDates": [],
+      "dateCapacity": {},
+      "reviews": [
+        {
+          "rating": 5,
+          "author": "Marta",
+          "text": "DDR Museum Hands-on Ticket: There is no skip-the-line, so we waited with everyone else. The children stayed engaged the whole time."
+        },
+        {
+          "rating": 4,
+          "author": "Jonas",
+          "text": "It poured and the activity still ran because we were under cover. I would book DDR Museum Hands-on Ticket again."
+        }
+      ]
+    },
+    {
+      "id": "ber-club",
+      "city": "Berlin",
+      "title": "Kreuzberg Club Culture Walk",
+      "category": "nightlife",
+      "summary": "An evening walk about clubs, with no venue entry included.",
+      "pricePerPerson": 30,
+      "currency": "EUR",
+      "durationMinutes": 150,
+      "kidFriendly": false,
+      "skipTheLine": false,
+      "rainFriendly": false,
+      "minParticipants": 1,
+      "maxParticipants": 10,
+      "tags": [
+        "night"
+      ],
+      "crossSellIds": [
+        "ber-market-food",
+        "ber-east-side"
+      ],
+      "defaultCapacity": 20,
+      "closedDates": [],
+      "dateCapacity": {},
+      "reviews": [
+        {
+          "rating": 4,
+          "author": "Marta",
+          "text": "Kreuzberg Club Culture Walk: There is no skip-the-line, so we waited with everyone else. This felt aimed at adults, not young children."
+        },
+        {
+          "rating": 4,
+          "author": "Jonas",
+          "text": "A rain shower would have wrecked this one; it is fully outdoors. I would book Kreuzberg Club Culture Walk again."
+        }
+      ]
+    },
+    {
+      "id": "ber-zoo",
+      "city": "Berlin",
+      "title": "Berlin Zoo Family Ticket",
+      "category": "family",
+      "summary": "Zoo entry with a short keeper talk at the weekend slot.",
+      "pricePerPerson": 26,
+      "currency": "EUR",
+      "durationMinutes": 150,
+      "kidFriendly": true,
+      "skipTheLine": true,
+      "rainFriendly": false,
+      "minParticipants": 1,
+      "maxParticipants": 10,
+      "tags": [
+        "family",
+        "outdoor"
+      ],
+      "crossSellIds": [
+        "ber-ddr",
+        "ber-spree-cruise"
+      ],
+      "defaultCapacity": 20,
+      "closedDates": [],
+      "dateCapacity": {},
+      "reviews": [
+        {
+          "rating": 5,
+          "author": "Marta",
+          "text": "Berlin Zoo Family Ticket: Skip-the-line was worth it and we walked straight in. The children stayed engaged the whole time."
+        },
+        {
+          "rating": 4,
+          "author": "Jonas",
+          "text": "A rain shower would have wrecked this one; it is fully outdoors. I would book Berlin Zoo Family Ticket again."
+        }
+      ]
+    },
+    {
+      "id": "ber-east-side",
+      "city": "Berlin",
+      "title": "East Side Gallery Walk",
+      "category": "outdoor",
+      "summary": "A guided hour along the painted wall with the history that the murals skip.",
+      "pricePerPerson": 15,
+      "currency": "EUR",
+      "durationMinutes": 70,
+      "kidFriendly": true,
+      "skipTheLine": false,
+      "rainFriendly": false,
+      "minParticipants": 1,
+      "maxParticipants": 15,
+      "tags": [
+        "outdoor",
+        "history"
+      ],
+      "crossSellIds": [
+        "ber-wall-bike",
+        "ber-club"
+      ],
+      "defaultCapacity": 20,
+      "closedDates": [],
+      "dateCapacity": {},
+      "reviews": [
+        {
+          "rating": 5,
+          "author": "Marta",
+          "text": "East Side Gallery Walk: There is no skip-the-line, so we waited with everyone else. The children stayed engaged the whole time."
+        },
+        {
+          "rating": 4,
+          "author": "Jonas",
+          "text": "A rain shower would have wrecked this one; it is fully outdoors. I would book East Side Gallery Walk again."
+        }
+      ]
+    },
+    {
+      "id": "rom-colosseum-skip",
+      "city": "Rome",
+      "title": "Colosseum and Forum Skip-the-Line",
+      "category": "sightseeing",
+      "summary": "Arena, forum, and a host who holds the timed slot.",
+      "pricePerPerson": 38,
+      "currency": "EUR",
+      "durationMinutes": 180,
+      "kidFriendly": true,
+      "skipTheLine": true,
+      "rainFriendly": false,
+      "minParticipants": 1,
+      "maxParticipants": 12,
+      "tags": [
+        "history",
+        "family"
+      ],
+      "crossSellIds": [
+        "rom-gladiator",
+        "rom-trastevere-food"
+      ],
+      "defaultCapacity": 20,
+      "closedDates": [
+        "2026-12-25"
+      ],
+      "dateCapacity": {},
+      "reviews": [
+        {
+          "rating": 5,
+          "author": "Marta",
+          "text": "Colosseum and Forum Skip-the-Line: Skip-the-line was worth it and we walked straight in. The children stayed engaged the whole time."
+        },
+        {
+          "rating": 4,
+          "author": "Jonas",
+          "text": "A rain shower would have wrecked this one; it is fully outdoors. I would book Colosseum and Forum Skip-the-Line again."
+        }
+      ]
+    },
+    {
+      "id": "rom-vatican",
+      "city": "Rome",
+      "title": "Vatican Museums Skip-the-Line",
+      "category": "museum",
+      "summary": "Museums and Sistine entry with a timed door, indoors once you are in.",
+      "pricePerPerson": 48,
+      "currency": "EUR",
+      "durationMinutes": 180,
+      "kidFriendly": true,
+      "skipTheLine": true,
+      "rainFriendly": true,
+      "minParticipants": 1,
+      "maxParticipants": 12,
+      "tags": [
+        "museum",
+        "history"
+      ],
+      "crossSellIds": [
+        "rom-borghese",
+        "rom-gelato"
+      ],
+      "defaultCapacity": 20,
+      "closedDates": [],
+      "dateCapacity": {},
+      "reviews": [
+        {
+          "rating": 5,
+          "author": "Marta",
+          "text": "Vatican Museums Skip-the-Line: Skip-the-line was worth it and we walked straight in. The children stayed engaged the whole time."
+        },
+        {
+          "rating": 4,
+          "author": "Jonas",
+          "text": "It poured and the activity still ran because we were under cover. I would book Vatican Museums Skip-the-Line again."
+        }
+      ]
+    },
+    {
+      "id": "rom-trastevere-food",
+      "city": "Rome",
+      "title": "Trastevere Twilight Food Tour",
+      "category": "food",
+      "summary": "Four stops for pizza, suppl\u00ec, and a bitter soda.",
+      "pricePerPerson": 52,
+      "currency": "EUR",
+      "durationMinutes": 180,
+      "kidFriendly": true,
+      "skipTheLine": false,
+      "rainFriendly": true,
+      "minParticipants": 1,
+      "maxParticipants": 8,
+      "tags": [
+        "food",
+        "family"
+      ],
+      "crossSellIds": [
+        "rom-colosseum-skip",
+        "rom-gelato"
+      ],
+      "defaultCapacity": 20,
+      "closedDates": [],
+      "dateCapacity": {},
+      "reviews": [
+        {
+          "rating": 5,
+          "author": "Marta",
+          "text": "Trastevere Twilight Food Tour: There is no skip-the-line, so we waited with everyone else. The children stayed engaged the whole time."
+        },
+        {
+          "rating": 4,
+          "author": "Jonas",
+          "text": "It poured and the activity still ran because we were under cover. I would book Trastevere Twilight Food Tour again."
+        }
+      ]
+    },
+    {
+      "id": "rom-gelato",
+      "city": "Rome",
+      "title": "Gelato Making Workshop",
+      "category": "food",
+      "summary": "A short indoor class and a pint to take away.",
+      "pricePerPerson": 33,
+      "currency": "EUR",
+      "durationMinutes": 75,
+      "kidFriendly": true,
+      "skipTheLine": false,
+      "rainFriendly": true,
+      "minParticipants": 1,
+      "maxParticipants": 10,
+      "tags": [
+        "food",
+        "family"
+      ],
+      "crossSellIds": [
+        "rom-trastevere-food",
+        "rom-vatican"
+      ],
+      "defaultCapacity": 20,
+      "closedDates": [],
+      "dateCapacity": {},
+      "reviews": [
+        {
+          "rating": 5,
+          "author": "Marta",
+          "text": "Gelato Making Workshop: There is no skip-the-line, so we waited with everyone else. The children stayed engaged the whole time."
+        },
+        {
+          "rating": 4,
+          "author": "Jonas",
+          "text": "It poured and the activity still ran because we were under cover. I would book Gelato Making Workshop again."
+        }
+      ]
+    },
+    {
+      "id": "rom-borghese",
+      "city": "Rome",
+      "title": "Borghese Gallery Timed Entry",
+      "category": "museum",
+      "summary": "A two-hour gallery slot. The reservation is the whole trick.",
+      "pricePerPerson": 26,
+      "currency": "EUR",
+      "durationMinutes": 90,
+      "kidFriendly": true,
+      "skipTheLine": true,
+      "rainFriendly": true,
+      "minParticipants": 1,
+      "maxParticipants": 8,
+      "tags": [
+        "museum"
+      ],
+      "crossSellIds": [
+        "rom-vatican",
+        "rom-tiber"
+      ],
+      "defaultCapacity": 20,
+      "closedDates": [],
+      "dateCapacity": {},
+      "reviews": [
+        {
+          "rating": 5,
+          "author": "Marta",
+          "text": "Borghese Gallery Timed Entry: Skip-the-line was worth it and we walked straight in. The children stayed engaged the whole time."
+        },
+        {
+          "rating": 4,
+          "author": "Jonas",
+          "text": "It poured and the activity still ran because we were under cover. I would book Borghese Gallery Timed Entry again."
+        }
+      ]
+    },
+    {
+      "id": "rom-tiber",
+      "city": "Rome",
+      "title": "Tiber Evening Cruise",
+      "category": "cruise",
+      "summary": "A small-boat loop as the city lights come on.",
+      "pricePerPerson": 27,
+      "currency": "EUR",
+      "durationMinutes": 70,
+      "kidFriendly": true,
+      "skipTheLine": false,
+      "rainFriendly": false,
+      "minParticipants": 1,
+      "maxParticipants": 16,
+      "tags": [
+        "cruise",
+        "night"
+      ],
+      "crossSellIds": [
+        "rom-night-walk",
+        "rom-trastevere-food"
+      ],
+      "defaultCapacity": 20,
+      "closedDates": [],
+      "dateCapacity": {},
+      "reviews": [
+        {
+          "rating": 5,
+          "author": "Marta",
+          "text": "Tiber Evening Cruise: There is no skip-the-line, so we waited with everyone else. The children stayed engaged the whole time."
+        },
+        {
+          "rating": 4,
+          "author": "Jonas",
+          "text": "A rain shower would have wrecked this one; it is fully outdoors. I would book Tiber Evening Cruise again."
+        }
+      ]
+    },
+    {
+      "id": "rom-gladiator",
+      "city": "Rome",
+      "title": "Gladiator School for Families",
+      "category": "family",
+      "summary": "Wooden swords and a lesson in a park near the forum.",
+      "pricePerPerson": 31,
+      "currency": "EUR",
+      "durationMinutes": 90,
+      "kidFriendly": true,
+      "skipTheLine": false,
+      "rainFriendly": false,
+      "minParticipants": 1,
+      "maxParticipants": 10,
+      "tags": [
+        "family",
+        "outdoor"
+      ],
+      "crossSellIds": [
+        "rom-colosseum-skip",
+        "rom-gelato"
+      ],
+      "defaultCapacity": 20,
+      "closedDates": [],
+      "dateCapacity": {},
+      "reviews": [
+        {
+          "rating": 5,
+          "author": "Marta",
+          "text": "Gladiator School for Families: There is no skip-the-line, so we waited with everyone else. The children stayed engaged the whole time."
+        },
+        {
+          "rating": 4,
+          "author": "Jonas",
+          "text": "A rain shower would have wrecked this one; it is fully outdoors. I would book Gladiator School for Families again."
+        }
+      ]
+    },
+    {
+      "id": "rom-night-walk",
+      "city": "Rome",
+      "title": "Rome Night Walk and Viewpoints",
+      "category": "nightlife",
+      "summary": "A walking route of lit squares, not a bar crawl.",
+      "pricePerPerson": 24,
+      "currency": "EUR",
+      "durationMinutes": 120,
+      "kidFriendly": false,
+      "skipTheLine": false,
+      "rainFriendly": false,
+      "minParticipants": 1,
+      "maxParticipants": 12,
+      "tags": [
+        "night",
+        "outdoor"
+      ],
+      "crossSellIds": [
+        "rom-tiber",
+        "rom-trastevere-food"
+      ],
+      "defaultCapacity": 20,
+      "closedDates": [],
+      "dateCapacity": {},
+      "reviews": [
+        {
+          "rating": 4,
+          "author": "Marta",
+          "text": "Rome Night Walk and Viewpoints: There is no skip-the-line, so we waited with everyone else. This felt aimed at adults, not young children."
+        },
+        {
+          "rating": 4,
+          "author": "Jonas",
+          "text": "A rain shower would have wrecked this one; it is fully outdoors. I would book Rome Night Walk and Viewpoints again."
+        }
+      ]
+    }
+  ]
+}
